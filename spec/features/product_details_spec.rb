@@ -1,6 +1,6 @@
 require 'rails_helper'
 
-RSpec.feature "Visitor navigates to home page", type: :feature, js: true do
+RSpec.feature "Visitir clicks on a product", type: :feature, js: true do
 
   # SETUP
   before :each do
